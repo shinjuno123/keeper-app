@@ -1,10 +1,12 @@
 //1. Create a new React app.
 import React from "react";
-import ReactDom from "react-dom";
-import App from "./App";
+import {createRoot} from "react-dom/client";
+import App from "./components/App";
 
-const root = document.getElementById("root");
-ReactDom.render(<App/>,root)
+
+const container = document.getElementById("root");
+const root = createRoot(container);
+root.render(<App/>);
 
 //2. Create a App.jsx component.
 //3. Create a Header.jsx component that renders a <header> element
