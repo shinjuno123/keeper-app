@@ -12,7 +12,7 @@ You can leave your memo temporaily in this service
 - Javascript
 - React.js
 
-## :memo: Web page GIF
+## :memo: Webpage Preview
 
 ![keeper app](https://user-images.githubusercontent.com/72008909/208299905-2086aee1-c9ad-455b-b0d6-b29733b40bae.gif)
 
